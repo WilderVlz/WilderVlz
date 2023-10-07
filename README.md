@@ -2,8 +2,9 @@
     <h1 align="center"> Hey there, I'm <a href="https://github.com/WilderVlz"> Wilder</a></h1>
     <p align="center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-                src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=219C90&size=25&center=true&vCenter=true&width=600&height=100&lines=A+constantly+evolving+Backend+Developer.+;With+deep+expertise+in+Java,;MySQL,+SpringFramework,+and,+Hibernate.&hearts;+"></a>
+                src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=219C90&size=25&center=true&vCenter=true&width=600&height=100&lines=A+constantly+evolving+Backend+Developer.+;With+deep+expertise+in+Java,;MySQL,+SpringFramework,+and,+Hibernate.&hearts;+"></a>
     </p>
+    <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 238px></picture>
 </div>
 <div>
     <h2>About me</h2>
@@ -82,3 +83,4 @@
         Made with :heart: by <a href="https://github.com/WilderVlz">Wilder</a>
     </h5>
 </div>
+

@@ -54,8 +54,12 @@
 </div>
 <br>
 <div align="center">
+    <a href="https://twitter.com/WillderRuiz">
     <img src="https://pbs.twimg.com/profile_banners/1629951408882569216/1696636576/1500x500">
+    </a>
+    <a href="https://github.com/WilderVlz">
     <img src="https://komarev.com/ghpvc/?username=WilderVlz&color=orange">
+    </a>
 </div>
 <div>
     <h2>Contact info</h2>
